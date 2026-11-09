@@ -1,0 +1,24 @@
+name: Feedback or idea
+description: Something unclear, missing or worth changing in a DababonPro tool.
+labels: [feedback]
+body:
+  - type: input
+    id: tool
+    attributes:
+      label: Which tool
+      placeholder: Plainbrain
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What would make it better
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before you submit
+      options:
+        - label: This issue holds none of my notes, commitments, passwords or other private details.
+          required: true
