@@ -8,6 +8,7 @@ DababonPro IT Solutions builds free tools and custom software that help people a
 
 - **[Plainbrain](https://github.com/dababonpro/plainbrain)**: a second brain in plain Markdown files: one list of commitments, an inbox for capture, notes worth finding again, and a daily brief. Works with Codex, Claude Code, Cursor and Antigravity; Obsidian is optional. [How to set it up](https://dababon.pro/plainbrain/)
 - **[Human-Approved Agent Playbook](https://github.com/dababonpro/human-approved-agents)**: a guide, templates and agent skills for small teams putting AI agents to work with clear human ownership and controls. [Overview](https://dababon.pro/playbook/)
+- **[Skill Predator](https://github.com/dababonpro/skill-predator)**: hunts, devours, isolates, evolves, and updates Agent Skills (`SKILL.md`) without executing untrusted scripts or overwriting local edits. Python 3.11+ stdlib and `git`.
 
 ## How we work
 
